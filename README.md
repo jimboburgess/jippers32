@@ -12,8 +12,11 @@ use GPS for clock
 
 add battery monitoring
 
+If no gps lock change back to searching.
+
 
 parts list
+
 Feature	        IC
 
 Microcontroller	ESP32-S3-Zero
