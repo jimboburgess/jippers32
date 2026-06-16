@@ -14,6 +14,8 @@ add battery monitoring
 
 If no gps lock change back to searching.
 
+trt and seconds on ride page
+
 
 parts list
 
