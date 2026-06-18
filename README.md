@@ -6,7 +6,7 @@ Just a typical ESP32 project with weather data and GPS tracking plus a few other
 
 planned changes
 
-add way to exit wifi searching
+add way to exit wifi searching- removed wifi
 
 use GPS for clock
 
